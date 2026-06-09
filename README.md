@@ -8,8 +8,6 @@
 
 <img width="807" height="896" alt="wer" src="https://github.com/user-attachments/assets/1155d7b3-171f-465b-aefe-b197835a292e" />
 
-<img width="800" height="747" alt="ezgif-15cfb835785c44b1" src="https://github.com/user-attachments/assets/a85a9b54-dd56-42b1-9bb9-71889659f9af" />
-
 ---
 
 ## Overview
