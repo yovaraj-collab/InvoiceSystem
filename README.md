@@ -87,4 +87,3 @@ The system is pre-configured for **LUQIS**, a creative and IT services company b
 
 ---
 
-*Built for LUQIS PYD SERVICES — Custom Art Work · Motion Design · Corporate Design · Printing · IT/Telco Services*
