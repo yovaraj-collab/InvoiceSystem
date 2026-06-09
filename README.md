@@ -1,4 +1,4 @@
-# LUQIS PYD SERVICES — Invoice Management System
+# Invoice Management System
 
 **Version:** 1.0  
 **Type:** Single-file PHP Application  
