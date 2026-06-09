@@ -12,7 +12,7 @@
 
 ## Overview
 
-The LUQIS PYD SERVICES Invoice Management System is a lightweight, self-contained web application built entirely in a single PHP file (`invoice.php`). Designed for small businesses and freelancers, it provides a clean, professional interface for creating and managing invoices and customer records — with zero dependencies on external frameworks or front-end libraries.
+The Invoice Management System is a lightweight, self-contained web application built entirely in a single PHP file (`invoice.php`). Designed for small businesses and freelancers, it provides a clean, professional interface for creating and managing invoices and customer records — with zero dependencies on external frameworks or front-end libraries.
 
 The system is pre-configured for **LUQIS PYD SERVICES (AS0515701-P)**, a creative and IT services company based in Klang, Selangor, Malaysia. Company details, banking information, and payment terms are hardcoded into the application for consistency across all generated invoices.
 
